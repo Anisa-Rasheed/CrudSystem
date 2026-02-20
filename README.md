@@ -1,7 +1,5 @@
 # Student Records Management System
 
-# Project Description:
-
 The Student Records Management System is a web-based application developed using PHP, JavaScript, and CSS that allows users to efficiently manage student information in an organized and user-friendly manner. This project is ideal for schools, colleges, or educational institutes that want a simple system to keep track of their students.
 
 # Key Features:
